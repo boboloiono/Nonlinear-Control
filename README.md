@@ -36,5 +36,3 @@
 5.1	簡略地重覆最重要的結果,
 5.2	指出結果的蘊涵及所衍生的推論
 5.3	建議新的研究題或實際應用的方向。
-
-![image](https://github.com/boboloiono/Nonlinear-Control/assets/62455939/d7ae4358-cd29-439f-9f2d-d86668e9f3b7)
